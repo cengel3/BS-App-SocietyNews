@@ -1,3 +1,0 @@
-e:
-cd/cs_related/busAPP/testproject
-cd/cs_related/busAPP/testproject2
