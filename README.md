@@ -1,4 +1,6 @@
-# testproject2
+# Society News
 
-This is the departments page for the Business Society App.
-Includes OFO323's marketing page from https://github.com/OFO323/BS-Club-App
+This project contains the news articles for the Business Society at UCM.
+
+The landing page is the main page that holds all of the articles with a 
+capped description of the articles. To read the full article, click the learn more button below the description.
