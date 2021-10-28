@@ -4,7 +4,7 @@ import {StyleSheet, View, Button, Text, Image, ScrollView} from 'react-native';
 import { Divider} from 'react-native-elements';
 
 import logo from "./assets/logo.png";
-import HauntedHouse from "./images/HauntedHouse.jpg"
+import PieExec from "./images/PieExec.jpeg";
 import FullDesc from "./FullDesc.js";
 
 export default class SecondPage extends Component {
@@ -25,7 +25,7 @@ export default class SecondPage extends Component {
 
         <Text style={styles.articleTitle}> Pie An Exec </Text>
         <Divider style={{backgroundColor: 'black', height:1.5, marginBottom:10, maxWidth:150, marginLeft: 138}}/>
-        <Image source = {HauntedHouse} style = {{width:305, height: 320, alignSelf: 'center', marginBottom:5, borderColor: 'black', borderWidth: 2}}/>
+        <Image source = {PieExec} style = {{width:305, height: 320, alignSelf: 'center', marginBottom:5, borderColor: 'black', borderWidth: 2}}/>
         <View style={styles.articleText}>
           <FullDesc 
             desc = 'PIE AN EXEC FUNDRAISER!🥧👥 Come to Scholars Lane to pie one of the executives from the executive board for only $3! This fundraiser will take place from 10/-8-10/22, 10:00 AM till 2:00 PM. See you there!'

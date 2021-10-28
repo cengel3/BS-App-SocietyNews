@@ -28,7 +28,7 @@ export default class SecondPage extends Component {
         <Image source = {HauntedHouse} style = {{width:305, height: 320, alignSelf: 'center', marginBottom:5, borderColor: 'black', borderWidth: 2}}/>
         <View style={styles.articleText}>
           <FullDesc 
-            desc = 'Business Society would like to present the annual Haunted House at the Den. It is a free event for all UCM students, so come out to get the spooky in spooky season. \n Date: October 28th- 29th 2001 from 7:00 pm- 11:00 pm'
+            desc = 'Business Society would like to present the annual Haunted House at the Den. It is a free event for all UCM students, so come out to get the spooky in spooky season. Date: October 28th- 29th 2001 from 7:00 pm- 11:00 pm'
           />
         </View>
         <Text style={{textAlign:'center', color:'#b0aea9', paddingBottom:5, paddingTop:5}}>Business Society @ UCM</Text>
